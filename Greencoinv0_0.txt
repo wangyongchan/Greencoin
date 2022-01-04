@@ -28,3 +28,4 @@ Regarding personal security and the storing of private data: Greencoin is simila
 
 Greencoin v0.0 will provide tools for users to generate private keys and save them or view them to be written down. Private keys are displayed as a 
 hex of the private exponent and public keys are displayed as a hex of the public element in Greencoin v0.0
+
