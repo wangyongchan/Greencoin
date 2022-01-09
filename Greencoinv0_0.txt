@@ -1,3 +1,17 @@
+Today, January 9th, the Greencoin Application v0.0 is being released privately to the first locations. 
+
+The application and source code is being sent to enthusiastic users that have claimed locations to ensure the protocol is followed when the first transactions are submitted.
+
+All transactions will be publically displayed on the first Greencoin repository greencoincrypto.info users are encouraged to create public repositories for verification.
+
+Enthusiastic users can get free Greencoin from airdrops to build the initial network, email wangyongchan@gmx.com if interested.
+
+The Greencoin team is actively watching for bugs and updating the application accordingly for the public release.
+
+Greencoin application v0.0 is currently only compiled for Windows but the public release, scheduled for within 1-2 days, will include a Linux compile as well.
+
+The public release of Greencoin and the source code will exist here on Github and Greencoin Application v0.1 is already under development.
+
 In many ways Greencoin strives to be Bitcoin without the downfall of scalability. 
 
 The concept behind Greencoin is to provide a peer-to-peer network based on a protocol to ensure the ethicacy of a currency.
@@ -9,23 +23,8 @@ The concept is that a simplistic and user friendly interaction is required from 
 In order to accomplish these things, some phase of testing will be required to formulate things like maximum new transaction allowance from locations 
 based on the size of the ledger. 
 
-Greencoin application v0.0 is set to be released by January 9th, 2022. The application will very much be a functional 
-prototype to allow for stress and network speed testing. 
-
-Future applications will seek to accomplish other goals such as an intuitive and stylish GUI, 
-bug fixes and much more. Ideally the community will outpace our application design efforts and an open-source, community driven application will become standard. 
-
 Greencoin protocol is precise in the message contents to promote backwards compatibility in application design.
-
-Specifically regarding v0.0 - designed with wxWidgets, CryptoPP’s ECDSA and asio. Greencoin v0.0 will be released open-source and compiled for Windows
-with a Linux compile released a few days after.
 
 Users with a limited understanding of these systems should only use the most prevalent Greencoin application for security. 
 
-
 Regarding personal security and the storing of private data: Greencoin is similar to Bitcoin in the respect that in the end it comes down to the user to protect their own data.
-
-
-Greencoin v0.0 will provide tools for users to generate private keys and save them or view them to be written down. Private keys are displayed as a 
-hex of the private exponent and public keys are displayed as a hex of the public element in Greencoin v0.0
-
